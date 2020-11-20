@@ -18,6 +18,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [Chartboost](https://answers.chartboost.com/en-us/articles/200780269)
 
 **Log Data**
 
